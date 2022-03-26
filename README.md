@@ -1,4 +1,4 @@
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+<img alt="Coder GIF" height=2500 width=3500 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbubijawat" alt="khushbubijawat" /></a> </p>
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techradar.com%2Fin%2Fnews%2Fbest-laptop-for-programming&psig=AOvVaw0huLz_NLDU7REKiRxNABQR&ust=1648391692842000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCEuuL_4_YCFQAAAAAdAAAAABAE)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
