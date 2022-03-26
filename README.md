@@ -1,3 +1,4 @@
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
