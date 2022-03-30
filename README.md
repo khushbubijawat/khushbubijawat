@@ -1,6 +1,6 @@
 <div align="center" >
    <a href="https://github.com/khushbubijawat">
-   <img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2uvF1mxU1fr5-bm4UbL1jc&ust=1648715405357000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiDttO17fYCFQAAAAAdAAAAABAP" href="https://github.com/khushbubijawat" /></a>
+   <img height=50% width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2uvF1mxU1fr5-bm4UbL1jc&ust=1648715405357000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiDttO17fYCFQAAAAAdAAAAABAP" href="https://github.com/khushbubijawat" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
