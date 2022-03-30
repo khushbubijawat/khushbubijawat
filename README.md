@@ -1,4 +1,7 @@
-
+<div align="center" >
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+</div>
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
