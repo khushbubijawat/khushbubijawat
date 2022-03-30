@@ -1,6 +1,6 @@
 <div align="center" >
    <a href="https://github.com/khushbubijawat">
-   <img width=100% src="https://raw.githubusercontent.com/khushbu-bijawat/khushbu-bijawat/ouput/action2.gif" href="https://github.com/khushbubijawat" /></a>
+   <img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisme.co%2Fblog%2Fmake-a-gif%2F&psig=AOvVaw0x7AYfOcMXgSfHL94lyrXE&ust=1648714975639000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiqooW07fYCFQAAAAAdAAAAABAD" href="https://github.com/khushbubijawat" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
