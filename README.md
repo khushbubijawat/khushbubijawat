@@ -1,6 +1,6 @@
 <div align="center" >
    <a href="https://github.com/khushbubijawat">
-   <img  width=100% src="https://i.gifer.com/81r6.gif" href="https://github.com/khushbubijawat" /></a>
+   <img height=100% width=100% src="https://i.gifer.com/81r6.gif" href="https://github.com/khushbubijawat" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Khushbu Bijawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
