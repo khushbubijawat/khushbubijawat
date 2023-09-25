@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/khushbu bijawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbu bijawat" height="30" width="40" /></a>
 </p>
-[![@its_red_eagle's Holopin board](https://holopin.me/khushbubijawat)](https://holopin.io/@khushbubijawat)
   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +26,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbubijawat&show_icons=true&locale=en" alt="khushbubijawat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbubijawat&" alt="khushbubijawat" /></p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/khushbu-bijawat-27b4a11b3/"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="khushbubijawat31@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
 
